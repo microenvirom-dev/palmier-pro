@@ -47,6 +47,10 @@ We built Palmier Pro from scratch with Swift. The north star is Premiere Pro, wi
 
 Generate videos and images with SOTA models like Seedance, Kling, Nano Banana Pro inside the timeline editor.
 
+### DeerFlow internal agent branch
+
+This branch is being prepared so DeerFlow can act as Palmier Pro's internal Full Production planning agent instead of requiring Claude, Cursor, or Codex as the runtime brain. See `docs/deerflow-internal-agent.md` for the contract and architecture.
+
 ### Integrates with your agents
 
 Connects your Claude/Codex/Cursor via MCP, or use the in-app agent to work on the same project together.
@@ -106,12 +110,12 @@ See [FAQ.md](FAQ.md) for more.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## Community &amp; Support
+## Community & Support
 
 - **Discord:** Join the community on **[Discord](https://discord.com/invite/SMVW6pKYmg)**.
 - **Twitter / X:** Follow **[@Palmier_io](https://x.com/Palmier_io)** for updates and announcements.
 - **Instagram:** Follow [@palmier.io](https://www.instagram.com/palmier.io) 
-- **Feedback &amp; Support:** Create a [Github Issue](https://github.com/palmier-io/palmier-pro/issues) or email us at founders@palmier.io
+- **Feedback & Support:** Create a [Github Issue](https://github.com/palmier-io/palmier-pro/issues) or email us at founders@palmier.io
 
 ## Star History
 
